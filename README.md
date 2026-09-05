@@ -6,11 +6,11 @@ repo: `express-blog-routing`
 
 ### Esercizio
 
-Creare un file di routing (`routers/posts.js`) che conterrà le rotte necessario per l'entità `post`.
+// Creare un file di routing (`routers/posts.js`) che conterrà le rotte necessario per l'entità `post`.
 
-All'interno creare le rotte per le operazioni CRUD (*Index, Show, Create, Update e Delete)*
+// All'interno creare le rotte per le operazioni CRUD (*Index, Show, Create, Update e Delete)*
 
-Tutte le risposte saranno dei testi che confermeranno l’operazione che il server deve eseguire, secondo le convenzioni REST.
+// Tutte le risposte saranno dei testi che confermeranno l’operazione che il server deve eseguire, secondo le convenzioni REST.
 
 Ad esempio:
 
