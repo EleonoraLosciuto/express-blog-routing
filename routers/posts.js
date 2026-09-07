@@ -1,5 +1,5 @@
 import express from 'express';
-import posts from '../../database.js';
+import posts from '../database.js';
 const postsRouter = express.Router();
 
 //index

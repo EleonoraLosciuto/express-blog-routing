@@ -1,5 +1,5 @@
 import express from 'express';
-import postsRouter from './public/routers/posts.js'
+import postsRouter from './routers/posts.js'
 
 const app = express();
 const port = 3000;
